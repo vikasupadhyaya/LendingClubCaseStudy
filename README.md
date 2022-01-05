@@ -18,7 +18,7 @@
 ## Conclusions
 1. Lower annual incomes are more likely to be defaulter
 2. Higher the interest rate higher charged off ratio
-3. Those who are not working or have less than 1 year of work experience have 4. high chances of getting charged off
+3. Those who are not working or have less than 1 year of work experience have high chances of getting charged off
 5. Grade "F" and "G" have very high chances of charged off.
 6. Small Business applicants have high chances of getting charged off.
 
